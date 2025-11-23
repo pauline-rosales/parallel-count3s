@@ -1,0 +1,7 @@
+count3_omp
+count3_pthreads
+*.o
+*.png
+results*.csv
+summary*.csv
+
